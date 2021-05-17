@@ -1,0 +1,90 @@
+p {
+    color: white;
+    font-family: "raleway", sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family:'raleway', sans-serif;
+    font-weight: lighter;
+    color:white;
+    font-size: 30px;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: "raleway", sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: transparent;
+}
+.carousel-custom img {
+    width: 100%;
+}
+/*quienes somos*/
+.bloque-texto-1 {
+    color: white;
+    background-color: black;
+    padding-bottom: 15vh;
+    padding-top: 5vh;
+}
+ 
+.card-texto {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.fondo-azul {
+    background-color: #0465a5;
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    background-color: #000000;
+}
+
+.card {
+    background-color: #0465a5;
+}
+
+#footer {
+    background-color: #0465a5;
+    width: 100%;
+}
+
+.tarjeta {
+    height: 50vh;
+}
+
+.tarjeta img {
+    height: 25vh;
+}
+
+#tarjetas {
+    padding-bottom: 10vh;
+    padding-top: 5vh;
+    padding-left: 3vw;
+    padding-right: 3vw;
+}
+
+.formulario {
+    background-color: white;
+}
+
+.formulario-padre {
+    background-color: black;
+    padding: 10%;
+}
