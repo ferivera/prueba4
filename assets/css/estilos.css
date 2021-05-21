@@ -1,3 +1,10 @@
+/*solo nav*/
+nav {
+    background-color: transparent;
+}
+.carousel-custom img {
+    width: 100%;
+}
 p {
     color: white;
     font-family: "raleway", sans-serif;
@@ -27,12 +34,6 @@ body {
     padding: 0px;
 }
 
-nav {
-    background-color: transparent;
-}
-.carousel-custom img {
-    width: 100%;
-}
 /*quienes somos*/
 .bloque-texto-1 {
     color: white;
